@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORTRA", "ORTRA.csproj", "{3E173BAE-BD1F-76C6-6686-5D31D3D0AC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORTRA.Editor", "ORTRA.Editor.csproj", "{439E975B-9947-F4C0-533A-98A3153D0802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E173BAE-BD1F-76C6-6686-5D31D3D0AC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E173BAE-BD1F-76C6-6686-5D31D3D0AC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E173BAE-BD1F-76C6-6686-5D31D3D0AC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E173BAE-BD1F-76C6-6686-5D31D3D0AC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439E975B-9947-F4C0-533A-98A3153D0802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439E975B-9947-F4C0-533A-98A3153D0802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439E975B-9947-F4C0-533A-98A3153D0802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439E975B-9947-F4C0-533A-98A3153D0802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

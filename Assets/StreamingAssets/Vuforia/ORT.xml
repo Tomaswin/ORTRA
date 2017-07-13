@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AuditorioY" size="10.000000 7.500000" />
+    <ImageTarget name="Edificio4" size="10.000000 7.500000" />
+    <ImageTarget name="ComedorP" size="10.000000 7.500000" />
+    <ImageTarget name="Edificio2" size="10.000000 7.500000" />
+    <ImageTarget name="Comedor" size="10.000000 7.500000" />
+    <ImageTarget name="Microsoft" size="10.000000 7.500000" />
+    <ImageTarget name="LaboF" size="10.000000 7.500000" />
+    <ImageTarget name="Honor" size="10.000000 13.333333" />
+    <ImageTarget name="Labo" size="10.000000 7.500000" />
+    <ImageTarget name="Profes" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
